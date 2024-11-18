@@ -1,5 +1,10 @@
 # Security
 
+## 흐름도
+![스크린샷 2024-11-18 233219](https://github.com/user-attachments/assets/bf340c43-e29a-4b77-afc6-9e72dba14c7f)
+
+---
+
 ## 권한에 따른 페이지 접근
 
 ### ROLE_USER
@@ -30,6 +35,7 @@
 ---
 
 ## 로그인 처리
+
 
 
  
